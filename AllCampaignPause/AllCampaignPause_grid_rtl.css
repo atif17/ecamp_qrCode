@@ -1,0 +1,38 @@
+.css_campaignname_label, .css_campaignname_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_campaignname_grid_line, .css_campaignname_grid_line:hover {vertical-align: top;text-align: right;}
+.css_startdate_label, .css_startdate_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_startdate_grid_line, .css_startdate_grid_line:hover {vertical-align: top;text-align: center;}
+.css_emailcount_label, .css_emailcount_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_emailcount_grid_line, .css_emailcount_grid_line:hover {vertical-align: top;text-align: right;}
+.css_emailnosend_label, .css_emailnosend_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_emailnosend_grid_line, .css_emailnosend_grid_line:hover {text-align: right;}
+.css_sentper_label, .css_sentper_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_sentper_grid_line, .css_sentper_grid_line:hover {text-align: right;}
+.css_bounceemailno_label, .css_bounceemailno_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_bounceemailno_grid_line, .css_bounceemailno_grid_line:hover {vertical-align: top;text-align: right;}
+.css_bounce_label, .css_bounce_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_bounce_grid_line, .css_bounce_grid_line:hover {text-align: right;}
+.css_boun_label, .css_boun_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_boun_grid_line, .css_boun_grid_line:hover {text-align: center;}
+.css_noofopen_label, .css_noofopen_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_noofopen_grid_line, .css_noofopen_grid_line:hover {text-align: right;}
+.css_open_label, .css_open_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_open_grid_line, .css_open_grid_line:hover {text-align: center;}
+.css_totalopen_label, .css_totalopen_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_totalopen_grid_line, .css_totalopen_grid_line:hover {text-align: center;}
+.css_noofresponse_label, .css_noofresponse_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_noofresponse_grid_line, .css_noofresponse_grid_line:hover {text-align: right;}
+.css_responce_label, .css_responce_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_responce_grid_line, .css_responce_grid_line:hover {text-align: center;}
+.css_totalresponce_label, .css_totalresponce_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_totalresponce_grid_line, .css_totalresponce_grid_line:hover {text-align: center;}
+.css_status_label, .css_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line, .css_status_grid_line:hover {vertical-align: top;text-align: right;}
+.css_recid_label, .css_recid_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_recid_grid_line, .css_recid_grid_line:hover {vertical-align: top;text-align: right;}
+.css_discription_label, .css_discription_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_discription_grid_line, .css_discription_grid_line:hover {vertical-align: top;text-align: right;}
+.css_mode_label, .css_mode_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_mode_grid_line, .css_mode_grid_line:hover {vertical-align: top;text-align: right;}
+.css_smtpprofile_label, .css_smtpprofile_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_smtpprofile_grid_line, .css_smtpprofile_grid_line:hover {vertical-align: top;text-align: right;}
